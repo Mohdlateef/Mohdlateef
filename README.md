@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is LATEEF AHMAD BABA and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is LATEEF AHMAD BABA </h2>
 
 ###
 
