@@ -4,9 +4,8 @@
     and <strong>MongoDB</strong>, dedicated to building innovative and impactful web solutions. 
     I thrive on crafting user-centric applications and solving complex problems with clean, efficient code. 
     Continuously learning and adapting to the ever-evolving tech landscape, I stay updated with the latest trends 
-    and best practices.Feel free to explore my repositories or connect for exciting collaborations! 🚀
-###
-
+    and best practices.Feel free to explore my repositories or connect for exciting collaborations! 
+    
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
