@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is LATEEF AHMAD BABA </h2>
     I’m a passionate <strong>Software Developer</strong> with expertise in 
     <strong>JavaScript</strong>, <strong>React.js</strong>, <strong>Node.js (Express)</strong>, 
-    and <strong>MongoDB</strong>, dedicated to building innovative and impactful web solutions
+    and <strong>MongoDB</strong>, dedicated to building innovative and impactful web solutions .
     I thrive on crafting user-centric applications and solving complex problems with clean, efficient code. 
     Continuously learning and adapting to the ever-evolving tech landscape, I stay updated with the latest trends 
     and best practices.Feel free to explore my repositories or connect for exciting collaborations!
