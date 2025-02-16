@@ -12,5 +12,5 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Mohdlateef&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohdlateef&theme=radical&hide_border=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=&theme=radical&hide_border=false) 
 ![Lateef's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohdlateef&theme=radical&layout=compact&langs_count=10)
