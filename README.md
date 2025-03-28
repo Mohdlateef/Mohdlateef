@@ -5,7 +5,7 @@
     and <strong>MongoDB</strong>, dedicated to building innovative and impactful web solutions .
     I thrive on crafting user-centric applications and solving complex problems with clean, efficient code. 
     Continuously learning and adapting to the ever-evolving tech landscape, I stay updated with the latest trends 
-    and best practices.Feel free to explore my repositories or connect for exciting collaborations.
+    and best practices.Feel free to explore my repositories or connect for exciting collaborations ..
 
 
 # 💻 Tech Stack
